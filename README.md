@@ -13,7 +13,8 @@ Ho progettato il flusso di gestione reclami utilizzando lo standard **BPMN 2.0**
 * **Logica Decisionale:** Utilizzo di Gateway Esclusivi per automatizzare lo smistamento tra rimborsi, rifiuti e richieste di integrazione dati.
 * **Data Integration:** Identificazione dei punti di scrittura nel database (es. Tabella_Rimborsi_DB).
 
-<img width="3469" height="1719" alt="Workflow" src="https://github.com/user-attachments/assets/e7eeace6-aaa2-4934-94b4-592d7a8dc128" />
+<img width="3469" height="1719" alt="Workflow" src="https://github.com/user-attachments/assets/88622e0c-6d0e-472f-bff5-88f56e6f3125" />
+
 
 
 ---
@@ -30,6 +31,7 @@ Per testare il modello, ho generato un dataset di **100 righe** relativo al mese
 ## 📊 3. Dashboard di Monitoraggio (Power BI)
 La dashboard trasforma i dati del processo in insight azionabili e dinamici.
 
+<img width="2000" height="1131" alt="Dashboard" src="https://github.com/user-attachments/assets/c0616c1b-c015-4789-ac5b-d41129e74e99" />
 
 
 ### Metriche Principali:
